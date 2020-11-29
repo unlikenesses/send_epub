@@ -1,0 +1,1 @@
+A simple script to pick up an `epub` file and email it to your Kindle account. 
